@@ -1,0 +1,6 @@
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\bin\Debug\VillenaBlogDB.dacpac
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\bin\Debug\VillenaBlogDB.dll
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\bin\Debug\VillenaBlogDB.pdb
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\obj\Debug\VillenaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\obj\Debug\VillenaBlogDB.dll
+C:\Users\xyzav\source\repos\VillenaLE2\VillenaBlogDB\obj\Debug\VillenaBlogDB.pdb
