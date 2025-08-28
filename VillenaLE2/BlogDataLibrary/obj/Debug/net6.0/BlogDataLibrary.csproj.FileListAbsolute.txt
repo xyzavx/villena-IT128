@@ -1,6 +1,0 @@
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
-C:\Users\xyzav\source\repos\VillenaLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
